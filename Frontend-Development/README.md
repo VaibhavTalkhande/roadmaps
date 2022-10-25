@@ -55,6 +55,7 @@
 - [Resource 4](https://www.w3schools.com/js/)
 - [Resource 5](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Resource 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Resource 7](https://javascript30.com/)
 
 ### Frontend Projects
 - [Resource 1](https://www.frontendpractice.com/)
